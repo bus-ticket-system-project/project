@@ -109,3 +109,37 @@ Query shall return result within five seconds.
 External Requirements
 The system shall implement passenger privacy recognized that credit card details, IP address if booked online, as well as the names and personal information of emergency contacts.
 
+User Requirements
+
+User Requirement Definition
+
+The system shall generate seasonally management reports showing the cost of
+
+passengers describe by each station during a season.
+
+Usability Requirements
+
+ Aim of the system is that easy to use by passengers and station staff and errors
+
+should be minimized.
+
+ Passengers should set their preferred currency from drop-down list
+
+ Defining deposits and tax payment is important for customers.
+
+ Getting easier online payments
+
+ System should provide indicating enable/disable payments to passengers.
+
+ Providing offline payments also necessary option for passengers.
+
+Use Case For Transfer Data
+
+Station Box Officer transfer data ticket record system. These datas are saving passengers’
+
+informations which are passengers’ id, first name, surname, phone numbers, addresses, e-
+
+mail, gender, date etc. Another functions of the system is taking agency information,
+
+reservation information and payment information.
+
