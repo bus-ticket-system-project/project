@@ -162,3 +162,14 @@ Context System
 A passenger can make more than one reservation in both systems for seats but one seat can not reservated by more than one passenger.
 
 A box officer can make more than one reservation for seats but one seat can not reservated by more than one passenger.
+
+
+Use Case For Box Officer
+Box officer provides register and unregister operations and views whole passengers’ information. Another feature is about box officer which could contact passenger and derive passengers’ requests.
+
+
+Structural Model For Bus Ticket System
+When passengers log in online system, they can reach the avaliablety of agents’ bus. Passengers choose an agent and make reservation via online system. If passenger does not  pay the cost of ticket, they must pay a part of price of ticket for reservation. If passenger does not pay the cost of ticket until the due date, reservation is automatically cancelled. Another scenario is about cancelling reservation is that passenger can take their payment back when they cancels the reservation before due time. The last option for passenger is reservation and payment should be in the same time.
+Passengers could make all operations via box officer but in the payment case passengers should visit the station until due date.
+In critical point about whole payment process is passengers can only retake their payment 24 hours ago from travelling when they cancels the reservation. 
+
