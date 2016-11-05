@@ -98,8 +98,11 @@ Product Functions
 •	Allows seeing a route time able with the departure times of all buses of specific route. 
 •	Multilanguage supporting.
 •	Email & SMS notifications.
+
 Non-functional Requirements
+
 	Product Requirements
+	
 The company does not want to switch off electricity more than 5 minutes in this case system should include UPS. The reason why UPS is ideal for a range of applications and industries including; IT, telecommunications, financial services, education, healthcare. UPS is used for reliability, efficiency, availability, scalability and flexibility.  
 Performance Requirements   
 The load time for user interface screens shall take no longer than five seconds.
@@ -107,6 +110,7 @@ Query shall return result within five seconds.
 
 
 External Requirements
+
 The system shall implement passenger privacy recognized that credit card details, IP address if booked online, as well as the names and personal information of emergency contacts.
 
 User Requirements
@@ -143,3 +147,18 @@ mail, gender, date etc. Another functions of the system is taking agency informa
 
 reservation information and payment information.
 
+Use Case For Operator
+
+1. Operator registers both passenger information and baggage information. 
+
+2. Operator records these information and gives a unique number to passengers. 
+
+3. After each buses leave the station, operator report data to management.
+
+4. When registration is completed, system automatically sends e-mail or SMS about travelling information. Otherwise management does not take information from computer, system understands situation and send e-mail or SMS data.
+
+Context System
+
+A passenger can make more than one reservation in both systems for seats but one seat can not reservated by more than one passenger.
+
+A box officer can make more than one reservation for seats but one seat can not reservated by more than one passenger.
