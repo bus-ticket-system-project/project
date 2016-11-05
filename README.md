@@ -86,3 +86,26 @@ Software Interfaces
 
 The databases shall include bus seats, passenger information and agent. These can be modified by end-user. The bus database will include passengers’ and agents' information such as passengers' full name and agents' id etc.
 Software should include payment gateways integration, remote hosting, SMS, users’ permissions and encrypted password
+
+
+Product Functions
+•	Allows for typing in passenger information.
+•	Has a unique ticket number.
+•	When a passenger make reservation color of seat shall change white to pink or blue according to their gender.
+•	Records payment.
+•	Allows adding various bus types, show seats number and graphic seat map.
+•	Allows adding multiple bus rotes with start, end and intermediate stop locations.
+•	Allows seeing a route time able with the departure times of all buses of specific route. 
+•	Multilanguage supporting.
+•	Email & SMS notifications.
+Non-functional Requirements
+	Product Requirements
+The company does not want to switch off electricity more than 5 minutes in this case system should include UPS. The reason why UPS is ideal for a range of applications and industries including; IT, telecommunications, financial services, education, healthcare. UPS is used for reliability, efficiency, availability, scalability and flexibility.  
+Performance Requirements   
+The load time for user interface screens shall take no longer than five seconds.
+Query shall return result within five seconds.
+
+
+External Requirements
+The system shall implement passenger privacy recognized that credit card details, IP address if booked online, as well as the names and personal information of emergency contacts.
+
